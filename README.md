@@ -28,9 +28,10 @@ The application codes requires that you have the **`Easy IMU Module`** connected
 
 #### Run App First Time [ linux or mac ]
 - Download (by clicking on the green Code button above) or clone the repo into your PC using **`git clone`**
-  > you can use this command if you want to clone the repo:
-  >
-	>  ```git clone https://github.com/samuko-things-company/eimu_setup_py_codes.git```
+> [!NOTE]  
+> you can use this command if you want to clone the repo:
+> 
+>  ```git clone https://github.com/samuko-things-company/eimu_setup_py_codes.git```
 
 - change directory into the root **`eimu_setup_py_codes`** folder
 
@@ -75,9 +76,10 @@ The application codes requires that you have the **`Easy IMU Module`** connected
 
 #### Run App First Time [ Windows ]
 - Download (by clicking on the green Code button above) or clone the repo into your PC using **`git clone`**
-  > you can use this command if you want to clone the repo:
-  >
-	>  ```git clone https://github.com/samuko-things-company/eimu_setup_py_codes.git```
+> [!NOTE]  
+> you can use this command if you want to clone the repo:
+> 
+>  ```git clone https://github.com/samuko-things-company/eimu_setup_py_codes.git```
 
 - change directory into the root **`eimu_setup_py_codes`** folder
 
